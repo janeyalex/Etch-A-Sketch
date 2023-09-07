@@ -30,9 +30,3 @@ primarily used and not the graphics from runner. For example, the rect and circl
 from the confetti guided project and modified so that it would inherit from a class in this project. All
 code used to make the actual etch-a-sketch was written by me. 
 
-# Grade Justification
-I believe I should earn an A- on this project. I realize I am missing the testing file, but every other
-requirement was fulfilled. The program is user-friendly, nicely designed and has good functionality and my demo video 
-demonstrates my project well!
-
- 
